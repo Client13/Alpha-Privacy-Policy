@@ -1,7 +1,7 @@
-# Alpha-Privacy-Policy
+# Xverse-Privacy-Policy
 
-## **Alpha's Privacy Policy**
-### By using Alpha you accept with its privacy policy and [discord.com/terms](https://discord.com/terms) & [discord.com/guidelines](https://discord.com/guidelines)
+## **Xverse's Privacy Policy**
+### By using Xverse you accept with its privacy policy and [discord.com/terms](https://discord.com/terms) & [discord.com/guidelines](https://discord.com/guidelines)
 
 ## 1. What does it store?
 
@@ -44,4 +44,4 @@
 
 
 ## A warning will be announced in the support server 3 days prior to policy changes.
-#### **Last changed:**  `31st July, 2022`
+#### **Last changed:**  `30th September, 2022`
