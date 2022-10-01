@@ -34,8 +34,8 @@
 ## 4. This Privacy Policy doesn't answer my question. What should I do?
 
 #### You can reach us by the following methods:
-- Join our [Support Server](https://discord.gg/runz) on discord
-- Contact me on discord [discord.gg/runz](https://discord.gg/runz)
+- Join our [Support Server](https://discord.gg/fUH5rBAGMn) on discord
+- Contact me on discord [discord.gg/runz](https://discord.gg/fUH5rBAGMn)
 - Server invite invalid or channels locked ? You can contact me via my email address: venomslickop@gmail.com
 
 ## 5. How can we delete our entire data?
